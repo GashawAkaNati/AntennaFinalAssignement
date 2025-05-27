@@ -1,3 +1,4 @@
+# Task 1 question B
 import numpy as np
 import matplotlib.pyplot as plt
 
